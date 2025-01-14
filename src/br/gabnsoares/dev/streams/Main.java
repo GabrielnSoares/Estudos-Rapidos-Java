@@ -14,7 +14,7 @@ public class Main {
 
         System.out.println(namesContaisA);
 
-/*        var numbers =  IntStream.of(1, 2, 3, 4, 5, 6, 7, 8, 9);
+/*        *var numbers =  IntStream.of(1, 2, 3, 4, 5, 6, 7, 8, 9);
 
          List -> List -> List =list (reduced)
         numbers.reduce(0, (reduced, each) -> {
