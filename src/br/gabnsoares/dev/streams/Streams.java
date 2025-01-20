@@ -2,7 +2,7 @@ package br.gabnsoares.dev.streams;
 
 import java.util.List;
 
-public class Main {
+public class Streams {
 
     public static void main(String[] args) {
 
